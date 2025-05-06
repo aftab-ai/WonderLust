@@ -13,6 +13,6 @@ This project inspired by 'Airbnb'. It can save all travel details like image, na
 
 # OR...
 
-Simply search on browser: https://wonderlust-rgfu.onrender.com
+Simply search on browser: https://wonderlust-rgfu.onrender.com/listings
 
 Click 'Explore'.
